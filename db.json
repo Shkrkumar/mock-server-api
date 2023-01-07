@@ -406,5 +406,26 @@
         "details": "Style\tCabin & Lodge, Classic, Modern & Contemporary\nMaterial\tAcacia, MDF\nFinish\tLacquer\nFrame Material\tAcacia\nAssembly\tAssembly Required\nBase Type\tLegs\nColor\tBlack, Brown, Natural\nDesign\tTable\nProduct Features\tDrawers, Shelf\nShape\tRectangular\nTop Material\tAcacia\nDimensions\tSee Description\nWarranty\t1 year Limited Manufacturer\nModel Number\tVTTFT0100BK\nCountry of Origin\tVietnam",
         "id": 31
       }
-    ]
+    ],
+    "cart":[
+        {
+            "name": "Porch & Den Holly Hill Solid Acacia Recliner End Table",
+            "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/dc34ab1e5cb72f582555c3ea76b7c82cad2024c2/Porch-%26-Den-Holly-Hill-Solid-Acacia-Recliner-End-Table.jpg",
+            "type": "table",
+            "categories": "Coffee, Console, Sofa & End Tables",
+            "price": "7742",
+            "discount": "",
+            "prints":"Solid",
+            "rating": "3.8",
+            "specs": "ITEM#: 35391239\n\nThis end table is the perfect complement to your sofa. The narrow size makes it perfect for saving space while providing convenience. The open top, lower shelf, and drawer provide ample storage space for all your living room needs.\n\n\n\n\n\nFeatures: \n\nSolid acacia wood construction\nAvailable in black, mahogany, or natural finish\nOil-rubbed finish drawer knob\nMetal corner bracket construction for additional stability\nNylon drawer stopper \nIdeal for small spaces\nSupports 100 pounds\nSpacious storage area with drawer and bottom shelf\nMeasures 13 inches wide x 22 inches deep x 23 inches high",
+            "details": "Style\tCabin & Lodge, Classic, Modern & Contemporary\nMaterial\tAcacia, MDF\nFinish\tLacquer\nFrame Material\tAcacia\nAssembly\tAssembly Required\nBase Type\tLegs\nColor\tBlack, Brown, Natural\nDesign\tTable\nProduct Features\tDrawers, Shelf\nShape\tRectangular\nTop Material\tAcacia\nDimensions\tSee Description\nWarranty\t1 year Limited Manufacturer\nModel Number\tVTTFT0100BK\nCountry of Origin\tVietnam",
+            "id": 31
+          }
+    ],
+    "user":[{
+        "name":"shekhar",
+        "email":"shekhar.rrj@gmail.com",
+        "password":"12345678",
+        "contact":"8909780343"
+    }]
   }
